@@ -427,7 +427,7 @@ input:active,
 input:focus,
 textarea:active,
 textarea:focus {
-  border: 1px solid #CCCCCC;
+  border: 1px solid #42A5F5; 
   outline: none;
 }
 
