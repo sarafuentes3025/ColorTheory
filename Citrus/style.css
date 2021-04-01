@@ -319,7 +319,7 @@ small {
 }
 
 .alert-error {
-  background-color: #CCCCCC;
+  background-color: #FC472E;
 }
 
 .alert img {
@@ -427,7 +427,7 @@ input:active,
 input:focus,
 textarea:active,
 textarea:focus {
-  border: 1px solid #42A5F5; 
+  border: 1px solid #42A5F5;
   outline: none;
 }
 
@@ -436,7 +436,7 @@ textarea {
 }
 
 .input-error {
-  border-color: #F2F3F5;
+  border-color: #FC472E;
 }
 
 /* 6. Page Styles
