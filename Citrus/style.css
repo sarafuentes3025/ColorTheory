@@ -237,7 +237,7 @@ small {
 .site-nav-left li:not(:last-child),
 .site-nav-right li:not(:last-child),
 .site-nav-mobile li:not(:last-child) {
-  margin-right: 5px;
+  margin-right: 45px;
 }
 
 .site-nav-left .logo {
@@ -442,7 +442,7 @@ textarea {
 /* 6. Page Styles
 ======================================== */
 .site-main {
-  padding: 0 15px;
+  padding: 60px 15px;
   position: relative;
 }
 
@@ -459,7 +459,7 @@ textarea {
 }
 
 .site-main-header {
-  margin-bottom: 0;
+  margin-bottom: 60px;
 }
 
 .site-main-header h1,
@@ -475,5 +475,5 @@ textarea {
 
 .location-details li {
   display: block;
-  margin-top: 0;
+  margin-top: 15px;
 }
